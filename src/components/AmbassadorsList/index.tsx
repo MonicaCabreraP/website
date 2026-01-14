@@ -717,9 +717,17 @@ const ambassadors: Ambassador[] = [
     github: "heuermh",
     twitter: "michael_l_heuer",
     children:
+      'Mónica is a PhD in Bioinformatics with experience in cancer multi-omics. She currently works at <a href="https://www.germanstrias.org/es/" target="_blank">Institut Germans Trias i Pujol</a> with Nextflow pipelines for RNA and smRNA, and will soon start with single-cell. She also aims to initiate computational cytometry projects, ideally using Nextflow.'
+  },
+  {
+    name: "Mónica Cabrera-Pasadas",
+    img: "mcp.png",
+    country: "es",
+    github: "MonicaCabreraP",
+    linkedin: "monicacabrerapasadas",
+    children:
       'Michael Heuer (he/him/his) is a Staff Engineer at <a href="https://mammoth.bio/" target="_blank" >Mammoth Biosciences</a >. Michael contributes to several nf-core workflows and is a member of the nf-core <a href="https://nf-co.re/governance#safety" target="_blank" >safety team.</a>',
   },
-
   {
     name: "Muntadher Jihad",
     img: "munji.png",
